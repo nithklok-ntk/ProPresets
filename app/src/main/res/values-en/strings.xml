@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pro Presets</string>
+    <string name="probe_title">Pro Presets · diagnostics</string>
+    <string name="probe_description">When you tap Inspect, Pro Presets reads the controls exposed by the Xiaomi camera. Results appear on the phone and are written to the local debug log.</string>
+    <string name="device_details">%1$s %2$s · Android %3$s (API %4$d)</string>
+    <string name="camera_details">Camera detected · %1$s (%2$s)</string>
+    <string name="camera_missing">Xiaomi system camera was not detected.</string>
+    <string name="settings_open">Open accessibility settings</string>
+    <string name="camera_open">Open Xiaomi camera</string>
+    <string name="camera_open_error">Could not open the Xiaomi camera.</string>
+    <string name="probe_hint">Enable diagnostics, open the camera, and enter Pro mode manually. Tap Inspect and repeat with ISO, shutter speed, and white balance open.</string>
+    <string name="inspect_camera">Inspect</string>
+    <string name="inspect_summary">Candidates (%1$d) · nodes inspected (%2$d)</string>
+    <string name="inspect_incomplete">Candidates (%1$d) · nodes inspected (%2$d) · limit reached</string>
+    <string name="inspect_error">Could not read the camera window.</string>
+</resources>

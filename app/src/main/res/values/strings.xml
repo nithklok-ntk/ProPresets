@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pro Presets</string>
+    <string name="probe_title">Pro Presets · diagnóstico</string>
+    <string name="probe_description">Al pulsar Inspeccionar, Pro Presets lee los controles que expone la cámara Xiaomi. El resultado se muestra en el teléfono y queda en el registro local para depuración.</string>
+    <string name="device_details">%1$s %2$s · Android %3$s (API %4$d)</string>
+    <string name="camera_details">Cámara detectada · %1$s (%2$s)</string>
+    <string name="camera_missing">Cámara Xiaomi del sistema no detectada.</string>
+    <string name="settings_open">Abrir ajustes de accesibilidad</string>
+    <string name="camera_open">Abrir cámara Xiaomi</string>
+    <string name="camera_open_error">No se pudo abrir la cámara Xiaomi.</string>
+    <string name="probe_hint">Activa el diagnóstico, abre la cámara y entra manualmente en modo Pro. Pulsa Inspeccionar y repite con ISO, obturación y balance de blancos abiertos.</string>
+    <string name="inspect_camera">Inspeccionar</string>
+    <string name="inspect_summary">Candidatos (%1$d) · nodos revisados (%2$d)</string>
+    <string name="inspect_incomplete">Candidatos (%1$d) · nodos revisados (%2$d) · límite alcanzado</string>
+    <string name="inspect_error">No se pudo leer la ventana de la cámara.</string>
+</resources>
